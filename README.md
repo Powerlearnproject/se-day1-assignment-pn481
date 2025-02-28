@@ -20,24 +20,34 @@ deployment- realeasing the software to users or customers
 maintenance- provide ongoing support, updates and enhancements to the software after deployment. 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall- 
+Waterfall- is a sequential approach with distinct phases like design and implementation flowing downwards like a waterfall.
+Agile- iterative and incremental approach focused on flexibility and collaboration.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software developers are responsible for writing codes and implement software solutions.
+Quality Assurance engineer ensures the software quality by designing and executing test plans.
+project manager oversees the planning and execution and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs provide tools for writing, debugging and testing code; visual studio and Intellij IDEA.
+VSC track changes to source code and co-ordinate work; Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Tight Deadlines, changing requirements and technical debt to overcome this they must must use strategies to make sure that they prioritise tasks and reassess the project goals and timeline.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit Testing- it test individual components or modules of software.
+Integration Testing- test interaction between different components.
+System Testing- test the entire software system as a whole.
+Acceptance Testing- test the software against user requirements to ensure it meets user needs.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
-
+it gives clear instructions to AI assistant.
+it helps to structure statement to get precise response.
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: "Explain technology."
+Improved Prompt: "How has artificial intelligence impacted the manufacturing industry in terms of efficiency and cost reduction?"
+Explanation:It narrows the focus to AI, its impact, and a specific industry, making the response more relevant and informative.
